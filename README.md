@@ -1,21 +1,22 @@
 # ITMO CV Labs
 
-Репозиторий с лабораторными работами по компьютерному зрению (Computer Vision) в рамках обучения в НИУ ИТМО.
+## Lab 1: Introduction to Computer Vision
+Detailed description of Lab 1 with objectives, tasks, and expected outcomes.
 
-## Структура
+## Lab 2: Image Processing Techniques
+Detailed description of Lab 2 with objectives, tasks, and expected outcomes.
 
-Репозиторий содержит 5 лабораторных работ:
+## Lab 3: Object Detection
+Detailed description of Lab 3 with objectives, tasks, and expected outcomes.
 
-- **lab-1** - Первая лабораторная работа
-- **lab-2** - Вторая лабораторная работа
-- **lab-3** - Третья лабораторная работа
-- **lab-4** - Четвертая лабораторная работа
-- **lab-5** - Пятая лабораторная работа
+## Lab 4: Image Segmentation
+Detailed description of Lab 4 with objectives, tasks, and expected outcomes.
 
-## Описание
+## Lab 5: Optical Flow
+Detailed description of Lab 5 with objectives, tasks, and expected outcomes.
 
-Данный репозиторий содержит практические задания по различным аспектам компьютерного зрения, включая обработку изображений, анализ визуальной информации и применение алгоритмов машинного обучения.
+## Lab 6: Deep Learning for CV
+Detailed description of Lab 6 with objectives, tasks, and expected outcomes.
 
-## Автор
-
-- [kozhik31](https://github.com/kozhik31)
+## Lab 7: Final Project
+Detailed description of Lab 7 with objectives, tasks, and expected outcomes.
