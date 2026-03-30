@@ -1,22 +1,39 @@
 # ITMO CV Labs
 
-## Lab 1: Introduction to Computer Vision
-Detailed description of Lab 1 with objectives, tasks, and expected outcomes.
+📁 Lab 1 — Основы работы с изображениями
+🔹 Работа с массивами и матрицами
+🔹 Загрузка и отображение изображений (OpenCV + matplotlib)
+🔹 Простые операции рисования
+🔹 Работа с пикселями
 
-## Lab 2: Image Processing Techniques
-Detailed description of Lab 2 with objectives, tasks, and expected outcomes.
 
-## Lab 3: Object Detection
-Detailed description of Lab 3 with objectives, tasks, and expected outcomes.
+📁 Lab 2 — Обработка изображений
+🔹 Перевод цветовых пространств (RGB → HSV/HSL)
+🔹 Смешивание изображений (blending)
+🔹 Пороговая обработка
+🔹 Адаптивная бинаризация
+🔹 Свёртки и фильтры
 
-## Lab 4: Image Segmentation
-Detailed description of Lab 4 with objectives, tasks, and expected outcomes.
 
-## Lab 5: Optical Flow
-Detailed description of Lab 5 with objectives, tasks, and expected outcomes.
+📁 Lab 3 — Классификация изображений
+🔹 Обучение нейросети на CIFAR-10
+🔹 Реализация train loop
+🔹 Сравнение функций активации
+🔹 Регуляризация модели
+🔹 Анализ метрик
 
-## Lab 6: Deep Learning for CV
-Detailed description of Lab 6 with objectives, tasks, and expected outcomes.
 
-## Lab 7: Final Project
-Detailed description of Lab 7 with objectives, tasks, and expected outcomes.
+📁 Lab 4 — Классификация цвета автомобилей
+🔹 Кастомный датасет изображений
+🔹 Transfer learning
+🔹 EfficientNet, Swin Transformer, CNN
+🔹 Оценка по F1-score
+🔹 Сравнение моделей
+
+
+📁 Lab 5 — Object Detection (YOLO)
+🔹 Подготовка датасета (YOLO формат)
+🔹 Обучение модели
+🔹 Валидация и метрики
+🔹 Тестирование на изображениях
+🔹 Визуализация bounding boxes
