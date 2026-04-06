@@ -2,4 +2,5 @@
 *.virtual_documents
 .idea
 *.png
-*.jpg
+*.__pycache__/
+.gitignore
